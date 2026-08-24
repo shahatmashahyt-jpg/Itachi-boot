@@ -1,0 +1,14 @@
+{
+  "PREFIX": ".",
+  "ADMINBOT": ["Your_Facebook_UID"],
+  "BOTNAME": "Zote Bot",
+  "GEMINI_KEY": "Gemini_API_Optional",
+  "MONGO_URI": "Your_MongoDB_Link",
+  "fcaOptions": {
+    "online": true,
+    "autoReconnect": true,
+    "forceLogin": true,
+    "listenEvents": true,
+    "selfListen": false
+  }
+}
