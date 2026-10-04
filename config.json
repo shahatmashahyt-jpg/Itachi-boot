@@ -1,9 +1,10 @@
 {
-  "PREFIX": ".",
-  "ADMINBOT": ["Your_Facebook_UID"],
-  "BOTNAME": "Zote Bot",
-  "GEMINI_KEY": "Gemini_API_Optional",
-  "MONGO_URI": "Your_MongoDB_Link",
+  "PREFIX": ":",
+  "ADMINBOT": ["61591526896601"],
+  "BOTNAME": "Flowey_Bot",
+  "GEMINI_KEY": "AQ.Ab8RN6IJ7xYYJvXDxuqcJHFdr9fhVgL6_L4bh4V-EuHMzKvomQ",
+  "YOUTUBE_API_KEY": "AIzaSyA_oVp4pF-BZNw8qRUCJalBQkT6ITjfdc0",
+  "MONGO_URI": "mongodb+srv://sarifihabib835_db_user:5uRS88XRzYqH03xg@cluster0.fpyfenh.mongodb.net/?appName=Cluster0",
   "fcaOptions": {
     "online": true,
     "autoReconnect": true,
